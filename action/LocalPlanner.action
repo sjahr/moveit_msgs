@@ -1,0 +1,6 @@
+string command
+Constraints[] local_constraints
+---
+moveit_msgs/MoveItErrorCodes error_code
+---
+string feedback

@@ -1,0 +1,6 @@
+string command
+moveit_msgs/MotionPlanRequest request
+---
+moveit_msgs/MotionPlanResponse response
+---
+moveit_msgs/MoveItErrorCodes error_code

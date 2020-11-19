@@ -1,0 +1,5 @@
+moveit_msgs/MotionPlanRequest request
+---
+moveit_msgs/MoveItErrorCodes error_code
+---
+string feedback

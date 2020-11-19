@@ -106,6 +106,9 @@ set(action_files
   "action/MoveGroupSequence.action"
   "action/Pickup.action"
   "action/Place.action"
+  "action/LocalPlanner.action"
+  "action/GlobalPlanner.action"
+  "action/HybridPlanning.action"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
